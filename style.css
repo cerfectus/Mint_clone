@@ -1,11 +1,24 @@
 .navbar {
-    display: flex;
+    display:flex;
+    flex-direction: row;
     margin-left: 70%;
 }
-
+.le-button{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 45%;
+}
 .btn-aqua {
     background-color: #0077c5;
     margin: 2% 0 2% 0;
+    width: 100%;
+    height: 40%;
+    border-radius: 2px;
+    color: white;
+    font-weight: bold;
 }
 .title-sub{
     display:flex;
@@ -66,4 +79,17 @@ form{
 main {
     border-radius: 2px;
     border: 1px solid #c7c7c7;
+}
+.row-align{
+    display:flex;
+    flex-direction: row;
+    padding: 0 10px 0 10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.padding-p{
+    padding: 0 10px 0 10px;
+    text-align: center;
+    font-size: 10px;
 }
