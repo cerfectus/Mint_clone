@@ -6,3 +6,37 @@
 .btn-aqua {
     background-color: #0077c5;
 }
+.title-sub{
+    display:flex;
+    flex-direction: row;
+}
+.section-center{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.center-text{
+    text-align:center;
+    padding: 10% 10% 10% 10%;
+}
+.add-margin{
+    margin: 2% 2% 2% 2%;
+}
+.left-text{
+    text-align: left;
+}
+.input-width{
+    width: 100%;
+}
+label{
+    display:block;
+    padding: 5% 0 5% 0;
+}
+body{
+    background-color: #ECEEF1;
+}
+form{
+    background-color:white;
+    padding: 10% 10% 10% 10%;
+}
