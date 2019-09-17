@@ -4,10 +4,11 @@
   margin-left: 70%;
 }
 .le-button {
-  display: flex;
   align-items: center;
-  justify-content: center;
+  display: flex;
   flex-direction: column;
+
+  justify-content: center;
   width: 45%;
 }
 .btn-aqua {
