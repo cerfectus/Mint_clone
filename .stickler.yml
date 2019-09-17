@@ -1,6 +1,5 @@
 linters:
-  stylelint: "order/properties-alphabetical-order": null
-
-      config: 'stylelint.config.js'
-      fixer: true
+  stylelint: 
+    config: 'stylelint.config.js'
+    fixer: true
 
