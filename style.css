@@ -59,7 +59,8 @@ label {
 
 body {
   background-color: #eceef1;
-  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
 }
 
 form {
@@ -107,21 +108,26 @@ main {
   text-align: center;
   font-size: 10px;
 }
-.imagencita{
+
+.imagencita {
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
 }
-.mint_logo{
+
+.mint_logo {
   margin-top: 7px;
 }
-.quick_logo{
-margin-top: 10px;
+
+.quick_logo {
+  margin-top: 10px;
 }
-.turbo_logo{
+
+.turbo_logo {
   margin-top: 7px;
 }
-.enlinea{
-  display: inline-block
+
+.enlinea {
+  display: inline-block;
 }
